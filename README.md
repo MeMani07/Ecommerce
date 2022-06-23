@@ -10,9 +10,9 @@ After successfull download of the files open index.html file to view the ecommer
 This html page will directly navigate you to the home page then you can navigate to other pages from the home page.
 
 ## Images
-![alt text](https://imgur.com/GHLoNUo)
-![alt text](https://imgur.com/Nyn0jUv)
-![alt text](https://imgur.com/I8UXyd8)
-![alt text](https://imgur.com/kvN05gX)
-![alt text](https://imgur.com/6JsB4I6)
-![alt text](https://imgur.com/GuJQ6l2)
+![alt text](https://imgur.com/GHLoNUo.png)
+![alt text](https://imgur.com/Nyn0jUv.png)
+![alt text](https://imgur.com/I8UXyd8.png)
+![alt text](https://imgur.com/kvN05gX.png)
+![alt text](https://imgur.com/6JsB4I6.png)
+![alt text](https://imgur.com/GuJQ6l2.png)
